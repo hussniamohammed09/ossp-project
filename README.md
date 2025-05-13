@@ -1,5 +1,4 @@
-# ossp-project
-nixos installation and implementation
+# ossp-project nixos installation and implementation
 ## part A:OS Installation
 installed NixOSinside VMwareworkstation using manual partitioning.
 Configured the file systemwith ext4 and boot settings with GPT.
